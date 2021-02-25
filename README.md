@@ -5,8 +5,8 @@ WinClock widget is a widget for windows desktops. It is a small, and light minim
 #### Made with C# .NET
 ## Target Framework: . NET Core 3.1
 
+### Widget Screenshots
 <p align="center">
-  <img src="/src/screen.gif"> <br> <br> <br>
-  ### Widget Screenshots
+  <img src="/src/screen.gif"> <br> <br> <br> <br>
   <img src="/src/screen2.gif">
 </p>
