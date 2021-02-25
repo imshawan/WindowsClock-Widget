@@ -1,0 +1,16 @@
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\bin\Debug\netcoreapp3.1\WinClock.exe
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\bin\Debug\netcoreapp3.1\WinClock.deps.json
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\bin\Debug\netcoreapp3.1\WinClock.runtimeconfig.json
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\bin\Debug\netcoreapp3.1\WinClock.runtimeconfig.dev.json
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\bin\Debug\netcoreapp3.1\WinClock.dll
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\bin\Debug\netcoreapp3.1\WinClock.pdb
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.csprojAssemblyReference.cache
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.WInClock.resources
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.csproj.GenerateResource.cache
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.AssemblyInfoInputs.cache
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.AssemblyInfo.cs
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.csproj.CoreCompileInputs.cache
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.dll
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.pdb
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.genruntimeconfig.cache
+C:\Users\shawan049\Desktop\WORK\C Sharp\WinClock\obj\Debug\netcoreapp3.1\WinClock.Properties.Resources.resources
