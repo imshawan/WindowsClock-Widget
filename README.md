@@ -4,3 +4,5 @@ WinClock widget is a widget for windows desktops. It is a small, and light minim
 
 #### Made with C# .NET
 ## Target Framework: . NET Core 3.1
+
+<video src="/src/screen.mp4">
